@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/jsp/resultado.jsp</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/model/ListaCarrera.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/jsp/carrera_form.jsp</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/jsp/bean.jsp</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/index.html</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/controller/BeanServlet.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/controller/CarrerasXML.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/controller/CarreraServlet.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/utils/CustomResponsive.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/model/CarreraModel.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/web/jsp/mostrar_carrera.jsp</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/configuration/ConnectionBD.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/controller/Carrera.java</file>
+            <file>file:/C:/Users/fredi/Desktop/ServidoresWeb/Fredi3Evaluacion/src/java/controller/VerCarreras.java</file>
+        </group>
+    </open-files>
+</project-private>
